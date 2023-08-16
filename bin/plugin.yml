@@ -1,0 +1,7 @@
+main: minealex.tserverredirect.TServerRedirect
+version: 1.0
+name: TServerRedirect
+
+commands:
+  tsr:
+    description: Help command

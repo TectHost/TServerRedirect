@@ -1,0 +1,7 @@
+lobby-servers:
+  - lobby
+  - lobby1
+  - lobby2
+
+modality-servers:
+  - survival
